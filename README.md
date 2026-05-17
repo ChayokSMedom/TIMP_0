@@ -1,6 +1,7 @@
 # TIMP_0
 отчёт
 
+personal token: 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
 
 ```
 reyne@reyne-VirtualBox:/run/media/reyne/VBox_GAs_7.2.6$ cmake --version
